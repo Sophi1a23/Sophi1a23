@@ -1,8 +1,12 @@
-Boas vindas ao meu perfil! 💛
+## Boas vindas ao meu perfil! 💛
 
-Meu nome é Sophia Maciel
+***Olá, Meu nome é Sophia Maciel*** .,.
+
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
-- 
- ![](https://images.app.goo.gl/6szjR2AQhcfUTb5J7).
+> é isso ✍️
+
+  
+![](https://media.tenor.com/i1RnhWXbKXkAAAAj/thumbs-up-cat.gif)  
+  
