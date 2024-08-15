@@ -5,7 +5,7 @@
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
-> é isso ✍️
+ > é isso ✍️
 
   
 ![](https://media.tenor.com/i1RnhWXbKXkAAAAj/thumbs-up-cat.gif)  
